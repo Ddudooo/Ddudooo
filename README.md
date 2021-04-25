@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 <img align="right" height="150rem" src="https://gist.githubusercontent.com/Ddudooo/bb6e2b75d40f4203f7d7dab36b1d08ff/raw/35622762b62e44ee30b201c91da4855fffe6998e/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
-- 🌱 자바 기반에 리액티브 프로그래밍에 관심이 생겨 공부중에요 💡
 - 💬 질문사항은 [📫이메일](mailto:igoa.work@gmail.com)로 해주세요 😄
 
 ## :trophy: My Github Stats
